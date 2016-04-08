@@ -1,33 +1,23 @@
 ---
 inFeed: true
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
 starred: false
 keywords: []
-description: >-
-  Wolfgang von Geramb
-
-  ist Entrepreneur. Wenn er seinen Kopf für tolle
-
-  Menschen einsetzt, scheint die Energie endlos. Kristina Bonitz ist Digital- und
-  Innovationsstrategin. Mit Kopf und
-
-  Herz neudenken und Menschen zum Schmunzeln zu bringen, ist das, was sie happy
-
-  performen lässt.
-datePublished: '2016-04-08T22:48:29.657Z'
-dateModified: '2016-04-08T22:08:39.912Z'
+description: 'Wolfgang von Gerambist Entrepreneur. Wenn er seinen Kopf für tolleMenschen einsetzt, scheint die Energie endlos. Kristina Bonitz ist Digital- und Innovationsstrategin. Mit Kopf undHerz neudenken und Menschen zum Schmunzeln zu bringen, ist das, was sie happyperformen lässt.'
+datePublished: '2016-04-08T23:00:24.551Z'
+dateModified: '2016-04-08T22:53:34.168Z'
 title: Creative Happy Performers
 author: []
+sourcePath: _posts/2016-04-08-creative-happy-performers.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-04-08-creative-happy-performers.md
-published: true
 url: creative-happy-performers/index.html
 _type: Article
 
