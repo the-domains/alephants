@@ -1,6 +1,6 @@
 name: alephants
 favicon: null
-layout_spectrum: 0.37269896967336535
+layout_spectrum: 1
 typography_spectrum: 0.9207626229617745
 title: Creative Happy Performers
 cta:
@@ -17,12 +17,12 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#ADD7F6'
-    - '#87BFFF'
-    - '#3F8EFC'
-    - '#2667FF'
-    - '#3B28CC'
-  brandStrength: 0.42531734122894704
+    - '#191c2a'
+    - '#004934'
+    - '#c9c3b1'
+    - '#5f706e'
+    - '#68b06a'
+  brandStrength: 0.3125
   lightness: 0.5606644796207547
   saturation: 0.7029854925349355
   rhythmicContrast: 0.7468362285289913
