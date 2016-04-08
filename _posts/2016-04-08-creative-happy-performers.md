@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'Wolfgang von Gerambist Entrepreneur. Wenn er seinen Kopf für tolleMenschen einsetzt, scheint die Energie endlos. Kristina Bonitz ist Digital- und Innovationsstrategin. Mit Kopf undHerz neudenken und Menschen zum Schmunzeln zu bringen, ist das, was sie happyperformen lässt.'
-datePublished: '2016-04-08T23:00:24.551Z'
-dateModified: '2016-04-08T22:53:34.168Z'
+datePublished: '2016-04-08T23:10:51.079Z'
+dateModified: '2016-04-08T23:00:26.402Z'
 title: Creative Happy Performers
 author: []
 sourcePath: _posts/2016-04-08-creative-happy-performers.md
