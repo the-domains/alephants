@@ -1,29 +1,41 @@
-name: alephants
-favicon: null
-layout_spectrum: 0.29553
-typography_spectrum: 0.9207626229617745
 title: alephants – Creative Happy Performers
+purpose: []
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+color:
+  saturation: 0.7029854925349355
+  brandStrength: 0.8225806
+  lightness: 0.5606644796207547
+  brandColors:
+    - '#453F45'
+    - '#0A0809'
+    - '#8BADC5'
+    - '#C3897F'
+    - '#BD5A5B'
+  rhythmicContrast: 0.5
 cta:
-  domain: null
   bucket: null
   version: null
+  domain: null
 analytics:
+  twitter: null
   google: UA-76161586-1
   facebook: null
-  twitter: null
+favicon: null
+name: alephants
 opengraph:
   image: null
   type: null
   appId: null
-color:
-  brandColors:
-    - '#191c2a'
-    - '#004934'
-    - '#c9c3b1'
-    - '#5f706e'
-    - '#68b06a'
-  brandStrength: 0.3125
-  lightness: 0.5606644796207547
-  saturation: 0.7029854925349355
-  rhythmicContrast: 0.5
-purpose: []
+typography_spectrum: 0.0609319
+layout_spectrum: 1
